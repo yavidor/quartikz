@@ -13,14 +13,14 @@
   "type": "module",
   "dependencies": {
     "@quartz-community/types": "^0.3.0",
-    "rehype-tikzjax": "^0.1.2"
+    "@yavidor/rehype-tikzjax": "^0.1.2"
   },
   "devDependencies": {
     "tsup": "^8.5.1",
     "typescript": "^6.0.3"
   },
   "peerDependencies": {
-    "rehype-tikzjax": "^0.1.2"
+    "@yavidor/rehype-tikzjax": "^0.1.2"
   },
   "quartz": {
     "name": "quartikz",
