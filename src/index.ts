@@ -1,7 +1,7 @@
-import type { RehypeTikzjaxOptions } from 'rehype-tikzjax';
+import type { RehypeTikzjaxOptions } from "@yavidor/rehype-tikzjax";
 import type { QuartzTransformerPlugin } from "@quartz-community/types";
 
-import rehypeTikzjax from "rehype-tikzjax";
+import rehypeTikzjax from "@yavidor/rehype-tikzjax";
 
 type Options = RehypeTikzjaxOptions;
 
